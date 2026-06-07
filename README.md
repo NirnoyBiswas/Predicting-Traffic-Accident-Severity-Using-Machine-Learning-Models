@@ -51,15 +51,3 @@ According to the Random Forest Mean Decrease in Impurity analysis, meteorologica
  8. Start Longitude
  9. Sunrise/Sunset
  10. Wind Chill (°F)
-## 🚀 Repository Structure
-```text
-├── data/                  # Metadata links / Sampling scripts
-├── notebooks/             # EDA and Preprocessing steps
-├── src/
-│   ├── preprocess.py      # Cleans data, handles imputation, 290 feature outputs
-│   ├── balancing.py       # Pure SMOTE & Hybrid pipeline functions
-│   └── train.py           # Model training execution scripts
-├── requirements.txt       # Necessary Python libraries (xgboost, imblearn, etc.)
-└── README.md
-
-```
