@@ -1,7 +1,4 @@
 # Predicting Traffic Accident Severity Using Machine Learning Models
-ML - Classifiers
-
-Imbalance Mitigation
 This repository contains the implementation accompanying our research paper on predicting traffic accident severity across four ordinal levels using the large-scale **US Accidents dataset (2016–2023)**. This study compares multiple machine learning algorithms and introduces a highly efficient class imbalance resolution pipeline to yield deployment-ready road safety models.
 
 ## 📌 Project Overview
